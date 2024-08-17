@@ -28,7 +28,7 @@ export const gridItems = [
   },
   {
     id: 3,
-    title: "General Knowledge",
+    title: "General Knowledge General Knowledge General Knowledge General Knowledge General Knowledge",
     description: "I constantly try to improve",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
